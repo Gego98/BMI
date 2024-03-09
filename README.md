@@ -1,6 +1,6 @@
 # Application to calculate your BMI.
 
-## Calcualtor UI
+## Calculator UI
 <img src="https://github.com/Gego98/BMi/assets/76273300/d0978318-9967-4aae-8249-5d2640f930c9" width="300">
 
 ## Underweight BMI
